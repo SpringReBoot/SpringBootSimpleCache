@@ -1,0 +1,11 @@
+
+debug: false
+
+
+---
+spring:
+  profiles:
+    active: test
+  cache:
+    type: none
+  
